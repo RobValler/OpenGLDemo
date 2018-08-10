@@ -1,0 +1,10 @@
+# ignore comments and blank lines
+# line limit of 256 charcaters
+# object name to not exceed 100 chars
+
+0 Landscape Landscape 100.0 .0 0.0
+1 Player Player 10.0 0.0 0.0
+
+2 Mob_1 Player 0.0 0.0 -10.0
+2 Mob_2 Player 10.0 0.0 -10.0
+
