@@ -2,6 +2,7 @@
 # line limit of 256 charcaters
 # object name to not exceed 100 chars
 
+# index / name / model / coordinates
 0 Landscape Landscape 100.0 .0 0.0
 1 Player Player 10.0 0.0 0.0
 

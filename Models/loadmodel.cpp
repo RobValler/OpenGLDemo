@@ -19,7 +19,7 @@
 #define BMP_HEADER_SIZE			54
 
 // paths
-#define DEFAULT_ROOT_PATH		"/home/robert/blender/"
+#define DEFAULT_ROOT_PATH		"../OpenGLDemo/Data/blender/"
 #define DEFAULT_MODEL_PATH(x)	DEFAULT_ROOT_PATH + x + "/"
 #define DEFAULT_IMAGE_PATH(x)	DEFAULT_ROOT_PATH + x + "/textures/"
 #define MTL_EXTENSION			".mtl";

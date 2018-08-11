@@ -56,7 +56,7 @@ int ObjectFactory::populate_list()
 	MobParamaters mobParms;
 
 	// load the level data
-    char filename[]="/home/rob/WORK/Development/OpenGLDemo/Data/level_1.lvl";
+    char filename[]="../OpenGLDemo/Data/level_1.lvl";
     FILE *file;
 
     if ((file = fopen(filename, "rt"))==nullptr)
